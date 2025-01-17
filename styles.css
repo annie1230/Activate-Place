@@ -5,6 +5,7 @@ body{background-image: linear-gradient(black, gray);
   background-color: #333;
   overflow: hidden;
 }
+div{background-color:black}
 
 /* Style the links inside the navigation bar */
 .topnav a {
