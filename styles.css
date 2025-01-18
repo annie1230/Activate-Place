@@ -10,7 +10,9 @@ td{padding-bottom:1px;
   margin-top:1px;
   margin-bottom:1px;}
 tr{padding-bottom:1px;
-  padding-top:1px;}
+  padding-top:1px;
+  margin-top:1px;
+  margin-bottom:1px;}
 
 p{font-size:25;
   text-align:left;
