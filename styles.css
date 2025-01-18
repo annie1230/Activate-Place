@@ -5,6 +5,10 @@ body{background-color:#000000;
 
 h2{font-size:35;
    font-color:F4F3EE;}
+td{padding-bottom:1px;
+  padding-top:1px;}
+tr{padding-bottom:1px;
+  padding-top:1px;}
 
 p{font-size:25;
   text-align:left;}
